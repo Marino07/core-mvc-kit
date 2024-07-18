@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace marinopusic\PhpMvcCore;
 
-use app\core\db\DbModel;
+use marinopusic\PhpMvcCore\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

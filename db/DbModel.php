@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\db;
+namespace marinopusic\PhpMvcCore\db;
 
-use app\core\Application;
-use app\core\Model;
+use marinopusic\PhpMvcCore\Application;
+use marinopusic\PhpMvcCore\Model;
 
 abstract class DbModel extends Model
 {

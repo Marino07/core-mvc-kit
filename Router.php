@@ -1,7 +1,7 @@
 <?php
-namespace app\core;
+namespace marinopusic\PhpMvcCore;
 
-use app\core\exception\NotFoundException;
+use marinopusic\PhpMvcCore\exception\NotFoundException;
 
 class Router
 {

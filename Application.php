@@ -1,8 +1,8 @@
 <?php
-namespace app\core;
+namespace marinopusic\PhpMvcCore;
 
-use app\core\db\Database;
-use app\core\db\DbModel;
+use marinopusic\PhpMvcCore\db\Database;
+use marinopusic\PhpMvcCore\db\DbModel;
 
 class Application
 {

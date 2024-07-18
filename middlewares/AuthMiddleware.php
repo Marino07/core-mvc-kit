@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\middlewares;
+namespace marinopusic\PhpMvcCore\middlewares;
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use marinopusic\PhpMvcCore\Application;
+use marinopusic\PhpMvcCore\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

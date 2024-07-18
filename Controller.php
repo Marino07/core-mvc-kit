@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace marinopusic\PhpMvcCore;
 
-use app\core\middlewares\BaseMiddleware;
+use marinopusic\PhpMvcCore\middlewares\BaseMiddleware;
 
 class Controller
 {

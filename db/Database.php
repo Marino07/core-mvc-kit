@@ -1,7 +1,7 @@
 <?php
-namespace app\core\db;
+namespace marinopusic\PhpMvcCore\db;
 
-use app\core\Application;
+use marinopusic\PhpMvcCore\Application;
 
 class Database
 {
