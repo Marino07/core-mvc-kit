@@ -2,7 +2,7 @@
     "name": "mp/php-mvc-core",
     "autoload": {
         "psr-4": {
-            "Mp\\PhpMvcCore\\": "src/"
+            "marinopusic\\PhpMvcCore\\": "src/"
         }
     },
     "authors": [
