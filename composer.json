@@ -1,5 +1,5 @@
 {
-    "name": "mp/php-mvc-core",
+    "name": "marinopusic/php-mvc-core",
     "autoload": {
         "psr-4": {
             "marinopusic\\PhpMvcCore\\": "src/"
